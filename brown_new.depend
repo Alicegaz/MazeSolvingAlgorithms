@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1487360559 source:d:\desktop\c tutorials\brown_new\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<math.h>
+	<ctime>
+	<time.h>
+	<iomanip>
+	<bits/stdc++.h>
+	<deque>
+	<queue>
+	<unordered_map>
+	<utility>
+	<new>
+	<string>
+
